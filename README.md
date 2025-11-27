@@ -57,7 +57,7 @@ Open a new terminal:
 
 ```sh
 cd frontend
-npm start
+npm install
 ```
 
 #### ▶️ Start Frontend
